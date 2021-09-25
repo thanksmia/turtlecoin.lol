@@ -1,0 +1,67 @@
+meta:
+  description: TurtleCoin là đồng tiền điện tử mã nguồn mở peer-2-peer phi tập trung. Nhận dễ dàng, hoàn toàn riêng tư và sẵn sàng cho bạn ngay hôm nay. 
+  title: TurtleCoin
+# welcome section
+turtlecoin_is: TurtleCoin</span> is a
+                            decentralized
+                            <strong>Peer-2-Peer</strong>
+                            <a href="https://github.com/turtlecoin"
+                                >Mã nguồn mở</a
+                            >
+                            electronic currency. It’s easy to get,
+                            <strong>completely private</strong>, and
+                            <a href="https://docs.turtlecoin.lol/"
+                                >sẵn sàng cho bạn</a
+                            >
+                            hôm nay.
+get_started: Hãy bắt đầu ngay với <strong>3 bước dễ dàng.</strong>
+
+
+# wallet section
+wallet_title: Chọn một ví
+wallet_we_support: Chúng tôi hỗ trợ
+                            <strong>Windows, MacOS, Linux, Android, </strong>
+                            và<strong> <a href="http://latest.turtlecoin.lol">CLI</a> hoặc ví trên web </strong>.
+wallet_long_term_storage: Để lưu trữ lâu dài, chúng tôi khuyến khích sử dụng
+                            <strong><a href="/wallet">ví giấy</a></strong>.
+
+#say hello section
+say_hello_title: Nói xin chào
+
+#get in the know section
+get_know_title: Tìm hiểu thông tin
+get_know_text: Chúng tôi đăng các bản cập nhật hàng tuần trên
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >
+                                    <span class="reg">TurtleCoin</span> Blog chính thức</a
+                                ></strong
+                            >
+                            chi tiết những gì chúng tôi đã hoàn thành. Khi nào bạn muốn
+                            gửi một điều gì đó thú vị đến cộng đồng, hoặc đơn giản
+                            gửi lời cảm ơn tới cộng đồng, mọi người đều
+                            hoanh nghênh bài đóng góp của bạn.
+get_know_button: Bấm để viết một bài cập nhật
+
+#blog updates section
+blog_updates_title: Cập nhật blog gần đây
+
+#dev activity section
+dev_activity_title: Cập nhật hoạt động gần đây của nhà phát triển
+dev_activity_issues: Các vấn đề
+dev_activity_core_commits: Những commit lõi
+
+#building apps section
+building_apps_title: Xây dựng ứng dụng
+building_apps_text: <span class="reg">TurtleCoin</span> có rất nhiều 
+                                 dịch vụ và tài liệu cho những người muốn
+                                xây dựng trên API của chúng tôi. Đây là vài 
+                                link để giúp bạn trên con đường này.
+building_apps_api_doc:  Tài liệu <span class="reg">TurtleCoin</span> API
+                                
+building_apps_service_doc: Tài liệu dịch vụ <span class="reg">TurtleCoin</span>
+
+
+
+
+
