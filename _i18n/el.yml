@@ -1,0 +1,63 @@
+meta:
+  description: Το TurtleCoin είναι ένα αποκεντρωμένο Peer-2-Peer ηλεκτρονικό νόμισμα Ανοικτού Κώδικα. Είναι εύκολο να το αποκτήσετε, πλήρως ιδιωτικό, και έτοιμο για εσάς σήμερα.
+  title: TurtleCoin
+
+# welcome section
+turtlecoin_is: Το TurtleCoin</span> είναι ένα
+                            αποκεντρωμένο
+                            <strong>Peer-2-Peer</strong>
+                            ηλεκτρονικό νόμισμα
+                            <a href="https://github.com/turtlecoin"
+                                >Ανοικτού Κώδικα</a>. Είναι εύκολο να το αποκτήσετε,
+                            <strong>πλήρως ιδιωτικό</strong>, και
+                            <a href="https://docs.turtlecoin.lol/"
+                                >έτοιμο για εσάς</a
+                            >
+                            σήμερα.
+get_started: Ας ξεκινήσουμε με <strong>3 εύκολα βήματα.</strong>
+
+
+# wallet section
+wallet_title: Διαλέξτε ένα πορτοφόλι
+wallet_we_support: Υποστηρίζουμε
+                            <strong>Windows, MacOS, Linux, Android,</strong>
+                            και<strong> <a href="http://latest.turtlecoin.lol">CLI</a> ή Web-based </strong>πορτοφόλια.
+wallet_long_term_storage: Για μακρόχρονη αποθήκευση, συνιστούμε τη χρήση ενός
+                            <strong><a href="/wallet">paper wallet</a></strong>.
+
+#say hello section
+say_hello_title: Πείτε ένα γεια
+
+#get in the know section
+get_know_title: Ενημερωθείτε
+get_know_text: Κάθε εβδομάδα δημοσιεύουμε ενημερώσεις στο
+                            <strong>
+                                <a href="https://blog.turtlecoin.lol"
+                                    >Επίσημο
+                                   ιστολόγιο <span class="reg">TurtleCoin</span> </a
+                                ></strong
+                            >
+                            που περιγράφει λεπτομερώς όσα πετύχαμε. Είτε θέλετε να
+                            υποβάλετε κάτι ωραίο που έχετε δημιουργήσει, ή απλά
+                            να κάνετε μια αναφορά στην κοινότητα, όλοι είναι
+                            ευπρόσδεκτοι να συνεισφέρουν το δικό τους κομμάτι στο άρθρο.
+get_know_button: Κάντε κλικ για να γράψετε μια ενημέρωση
+
+#blog updates section
+blog_updates_title: Πρόσφατες ενημερώσεις ιστολογίου
+
+#dev activity section
+dev_activity_title: Πρόσφατη Dev Δραστηριότητα
+dev_activity_issues: Ζητήματα
+dev_activity_core_commits: Βασικές Δεσμεύσεις
+
+#building apps section
+building_apps_title: Φτιάχνοντας Εφαρμογές στο
+building_apps_text: <span class="reg">TurtleCoin</span> σου παρέχονται πολλές
+                                υπηρεσίες και documentation για όσους θα ήθελαν να
+                                χτίσουν πάνω στα API μας. Παρακάτω θα βρείτε μερικούς
+                                συνδέσμους για να σας βοηθήσουν στην πορεία σας.
+building_apps_api_doc:  <span class="reg">TurtleCoin</span> API
+                                Documentation
+building_apps_service_doc: <span class="reg">TurtleCoin</span> Documentation
+                                Υπηρεσιών
