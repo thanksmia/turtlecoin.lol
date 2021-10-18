@@ -18,7 +18,7 @@ say_hello_title: Ven a Saludarnos
 
 #get in the know section
 get_know_title: Entérate
-get_know_text: Cada semana publicamos actualizaciones en el <strong><a href="https://blog.turtlecoin.lol" >Blog oficial de <span class="reg">TurtleCoin</span></a></strong> detallando lo que hemos logrado. Si deseas enviar algo cool que has estado creando, o simplemente enviar un saludo a la comunidad, todos son bienvenidos a contribuir con un artículo.            
+get_know_text: Cada semana publicamos actualizaciones en el <strong><a href="https://blog.turtlecoin.com" >Blog oficial de <span class="reg">TurtleCoin</span></a></strong> detallando lo que hemos logrado. Si deseas enviar algo cool que has estado creando, o simplemente enviar un saludo a la comunidad, todos son bienvenidos a contribuir con un artículo.            
 get_know_button: Haz clic para escribir una actualización
 
 #blog updates section

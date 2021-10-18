@@ -32,7 +32,7 @@ say_hello_title: 打招呼
 get_know_title: 了解最新情况
 get_know_text: 每周我们会在
                             <strong>
-                                <a href="https://blog.turtlecoin.lol"
+                                <a href="https://blog.turtlecoin.com"
                                     >官方
                                     <span class="reg">TurtleCoin</span> 博客</a
                                 ></strong
