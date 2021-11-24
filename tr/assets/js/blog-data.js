@@ -1,24 +1,26 @@
 $(document)
   .ready(() => {
     $.get({
-      url: 'https://jsonp.afeld.me/?url=https://blog.turtlecoin.lol/feed/json',
+      url: 'https://jsonp.afeld.me/?url=https://feed2json.org/convert?url=https://blog.turtlecoin.com/feed.xml',
       json: true,
       success: function(data) {
         $('#blog-feed')
-          .html('')
+          .html('');
 
         if (!data.items) return;
 
-        data.items = data.items.filter(item => (item.content_text))
-
         for (var i = 0; i < 3; i++) {
-          const article = data.items.shift();
-          const txt = article
-            .content_text
-            .split('.')[0]
+          var article = data.items[i];
+          var emText = $($.parseHTML(article.content_html))
+            .find('em:first')
+            .eq(0)
+            .text();
 
-          $('#blog-feed')
-            .append(`<h5><a href="${article.url}">${article.title}</a></h5><blockquote>${txt}</blockquote>`);
+          if (emText.length !== 0) {
+            $('#blog-feed').append(`<h5><a href="${article.url}">${article.title}</a></h5><blockquote>${emText}</blockquote>`);
+          } else {
+            $('#blog-feed').append(`<h5><a href="${article.url}">${article.title}</a></h5>`);
+          }
         }
       }
     })
